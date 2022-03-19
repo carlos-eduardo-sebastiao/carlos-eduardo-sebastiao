@@ -1,4 +1,4 @@
-<i>### Hi, I'm Carlos Eduardo 👋
+<i>### Hi, I'm Carlos Eduardo (https://www.linkedin.com/in/carlosedu-sebastiao/) 👋
 
 
 - 🔭 at the moment i am working as software development intern
